@@ -1,0 +1,32 @@
+/* Tekli yorum satırı 
+h2 {
+    color: yellow;
+    f
+    font-size: 50px;
+}
+*/
+body { 
+    background-color: seagreen;
+}
+/* font size belirtmek için */
+.fs-small {
+    font-size: 14px;
+}
+.fs-medium {
+    font: size 100px;
+}
+.fs-large {
+    font-size: 30px;
+}
+/*
+p {
+    color: black; /* metin rengini siyah yapar }
+ Çoklu yorum satırı
+   bu şekilde
+   tanımlanıor */
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+.text-red{
+    color: red;
+}
